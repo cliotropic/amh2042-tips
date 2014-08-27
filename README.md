@@ -10,7 +10,7 @@ Here is how to contribute to this website.
 1.  [Fork this repository][].
 2.  [Clone the repository to your own computer][].
 3.  In your terminal navigate to the directory with this repository.
-4.  (optional) Run `bundle install` to install necessary gems.
+4.  (optional) Make sure you have [Ruby](https://www.ruby-lang.org/) and [Bundler](http://bundler.io/bundle_install.html) installed. Run `bundle install` to install necessary gems.
 5.  (optional) Run `rake preview` and open <http://localhost:4000> in
     your web browser to preview changes.
 6.  Create a new branch for your changes:
