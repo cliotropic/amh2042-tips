@@ -1,12 +1,10 @@
-# Clio 3: Programming for Historians
+# AMH 2042: Modern American Civilization
 
-This is the syllabus and website for "[Clio 3: Programming for
-Historians][]" (HIST 698) offered at George Mason University by [Lincoln
-Mullen][].
+This is an auxiliary website for "[Modern American Civilization][]" (AMH 2042) offered at Florida International University by [Shane Landrum][]. 
 
-## Contributing to this syllabus
+## Contributing to this website
 
-Here is how to contribute to this syllabus.
+Here is how to contribute to this website.
 
 0.  Sign up for a [GitHub][] account.
 1.  [Fork this repository][].
@@ -27,13 +25,17 @@ Ask for help if you need it!
 
 ## License
 
-Syllabus and other contents are copyright 2014 Lincoln Mullen; they are
-licensed [CC-BY][]. You may use and adapt this syllabus for any purpose,
-provided that you provide attribution, preferably with a link to the
+The contents are built on a skeleton which is copyright 2014 Lincoln Mullen; 
+his original syllabus work is licensed [CC-BY][] and is available 
+[at the Clio3 website](https://github.com/lmullen/clio3-syllabus).
+
+Components added to extend Lincoln's work are copyright 2014 Shane Landrum
+and are also licensed [CC-BY][]. You may use and adapt this content for any
+purpose, provided that you provide attribution, preferably with a link to the
 original course website.
 
-  [Clio 3: Programming for Historians]: http://lincolnmullen.com/courses/clio3.2014/
-  [Lincoln Mullen]: http://lincolnmullen.com
+  [Modern American Civilization]: http://cpbucket.fiu.edu/1148-amh2042vc1148-85374/syllabus.html
+  [Shane Landrum]: http://cliotropic.org
   [GitHub]: https://github.com
   [Fork this repository]: https://help.github.com/articles/fork-a-repo
   [Clone the repository to your own computer]: http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository
